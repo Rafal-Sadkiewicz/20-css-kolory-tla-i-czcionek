@@ -1,0 +1,39 @@
+body
+{
+    background-color: aqua;
+}
+
+h1
+{
+ background-color: chocolate;
+ color: paleturquoise;
+}
+
+h2
+{
+    background-color: peru;
+    color: silver;
+}
+
+#p1
+{
+    background-color: khaki;
+    color: darkgreen;
+}
+
+#p2
+{
+    background-color: lime;
+    color: darkslategray;
+}
+
+ol
+{
+    background-color: mediumslateblue;    
+}
+
+li
+{
+    background-color: navy;
+    color: lavender;
+}
